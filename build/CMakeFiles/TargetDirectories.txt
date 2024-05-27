@@ -1,0 +1,4 @@
+/home/cong/open/test_qt/test_tr_reload/build/CMakeFiles/hellow.dir
+/home/cong/open/test_qt/test_tr_reload/build/CMakeFiles/edit_cache.dir
+/home/cong/open/test_qt/test_tr_reload/build/CMakeFiles/rebuild_cache.dir
+/home/cong/open/test_qt/test_tr_reload/build/CMakeFiles/hellow_autogen.dir
