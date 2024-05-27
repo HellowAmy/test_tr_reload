@@ -1,9 +1,0 @@
-# ninja log v5
-1	260	1715849951868262089	hellow_autogen/timestamp	d480e0e27e433159
-1	260	1715849951868262089	hellow_autogen/mocs_compilation.cpp	d480e0e27e433159
-1	260	1715849951868262089	/home/cong/open/test_qt/test_tr_xlsx/build/hellow_autogen/timestamp	d480e0e27e433159
-1	260	1715849951868262089	/home/cong/open/test_qt/test_tr_xlsx/build/hellow_autogen/mocs_compilation.cpp	d480e0e27e433159
-260	1956	1715849953572230415	CMakeFiles/hellow.dir/main.cpp.o	170629c960bd2971
-260	1614	1715849953232236734	CMakeFiles/hellow.dir/hellow_autogen/mocs_compilation.cpp.o	fea9189b4b6aef6a
-1566	2186	1715842477127794767	hellow	be129877e1757de9
-260	1999	1715849953616229597	CMakeFiles/hellow.dir/window/main_window.cpp.o	4ed27bdc63bd5dac
